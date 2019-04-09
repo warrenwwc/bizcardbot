@@ -1,0 +1,18 @@
+{
+    "name": "BizCard",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "4364d4e2-4156-4ffc-a841-3a4c9a6b609b",
+            "appPassword": "{;y%lPC#+:N0^iUmO5M{W-m&Zd(ak",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "b5393710-5a75-11e9-bbd1-efea4daff926",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Demo\\bizcardbotdemo-src\\BizCard.bot"
+}
