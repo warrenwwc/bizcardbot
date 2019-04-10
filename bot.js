@@ -166,6 +166,7 @@ class AttachmentsBot {
     /**
      * Returns an inline attachment.
      */
+    //TODO
     async searchCard(turnContext) {
         await turnContext.sendActivity("Search Card Function Triggered");
     }
@@ -173,6 +174,7 @@ class AttachmentsBot {
     /**
      * Returns an attachment to be sent to the user from a HTTPS URL.
      */
+    //TODO
     async recognizeCard(turnContext) {
         await turnContext.sendActivity("Recognized Card Function Triggered");
     }
